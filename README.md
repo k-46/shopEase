@@ -25,7 +25,7 @@ A modern, responsive e-commerce application built with React that provides a sea
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/k-46/shopEase
+git clone https://github.com/k-46/shopEase.git
 cd shopEase
 ```
 
